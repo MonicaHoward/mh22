@@ -28,6 +28,7 @@
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.18.10",
     "cross-env": "^7.0.3"
   }
 }
